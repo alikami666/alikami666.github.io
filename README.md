@@ -14,3 +14,9 @@ https://blog.csdn.net/weixin_46087812/article/details/124575202?spm=1001.2101.30
 
 上传到服务器:
 shell: cd /usr/share/nginx/html
+
+一个比较好看的博客:
+https://www.fomal.cc/posts/e593433d.html#4-%E5%AE%89%E8%A3%85Hexo
+
+butterfly
+https://butterfly.js.org/posts/4aa8abbe/#%E4%BB%A3%E7%A2%BC%E9%AB%98%E4%BA%AE%E4%B8%BB%E9%A1%8C
